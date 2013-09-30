@@ -21,6 +21,7 @@
 		F48162CF17F9A1E9005E39E4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F48162B117F9A1E9005E39E4 /* UIKit.framework */; };
 		F48162D717F9A1E9005E39E4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F48162D517F9A1E9005E39E4 /* InfoPlist.strings */; };
 		F48162D917F9A1E9005E39E4 /* VTALocationIconTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F48162D817F9A1E9005E39E4 /* VTALocationIconTests.m */; };
+		F48162E417F9A283005E39E4 /* VTALILocationIconView.m in Sources */ = {isa = PBXBuildFile; fileRef = F48162E317F9A283005E39E4 /* VTALILocationIconView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		F48162D417F9A1E9005E39E4 /* VTALocationIconTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "VTALocationIconTests-Info.plist"; sourceTree = "<group>"; };
 		F48162D617F9A1E9005E39E4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F48162D817F9A1E9005E39E4 /* VTALocationIconTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VTALocationIconTests.m; sourceTree = "<group>"; };
+		F48162E217F9A283005E39E4 /* VTALILocationIconView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VTALILocationIconView.h; path = Source/VTALILocationIconView.h; sourceTree = SOURCE_ROOT; };
+		F48162E317F9A283005E39E4 /* VTALILocationIconView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VTALILocationIconView.m; path = Source/VTALILocationIconView.m; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +82,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F44D322A17F9AC7200AD6730 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				F48162E217F9A283005E39E4 /* VTALILocationIconView.h */,
+				F48162E317F9A283005E39E4 /* VTALILocationIconView.m */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
 		F48162A117F9A1E9005E39E4 = {
 			isa = PBXGroup;
 			children = (
@@ -112,6 +124,7 @@
 		F48162B317F9A1E9005E39E4 /* VTALocationIcon */ = {
 			isa = PBXGroup;
 			children = (
+				F44D322A17F9AC7200AD6730 /* Source */,
 				F48162BC17F9A1E9005E39E4 /* VTALIAppDelegate.h */,
 				F48162BD17F9A1E9005E39E4 /* VTALIAppDelegate.m */,
 				F48162BF17F9A1E9005E39E4 /* Main.storyboard */,
@@ -253,6 +266,7 @@
 				F48162C417F9A1E9005E39E4 /* VTALIViewController.m in Sources */,
 				F48162BA17F9A1E9005E39E4 /* main.m in Sources */,
 				F48162BE17F9A1E9005E39E4 /* VTALIAppDelegate.m in Sources */,
+				F48162E417F9A283005E39E4 /* VTALILocationIconView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -461,6 +475,7 @@
 				F48162DE17F9A1E9005E39E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F48162DF17F9A1E9005E39E4 /* Build configuration list for PBXNativeTarget "VTALocationIconTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +484,7 @@
 				F48162E117F9A1E9005E39E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

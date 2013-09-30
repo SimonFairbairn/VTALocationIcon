@@ -7,12 +7,17 @@
 //
 
 #import "VTALIViewController.h"
+#import "VTALILocationIconView.h"
 
 @interface VTALIViewController ()
+
+@property (nonatomic, weak) IBOutlet VTALILocationIconView *icon;
 
 @end
 
 @implementation VTALIViewController
+
+#pragma mark - View Lifecycle
 
 - (void)viewDidLoad
 {
@@ -25,5 +30,12 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+
+#pragma mark - Actions
+
+-(IBAction)animate:(UIButton *)sender {
+    [self.icon animate];
+}
+
 
 @end

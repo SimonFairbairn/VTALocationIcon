@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E64C1D29-B374-441D-9EC5-BFC0626EF5B5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VTALocationIcon</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8E45B388-15CB-4D34-9163-4CDAC96DB942</key>
+		<string>https://github.com/SimonFairbairn/VTALocationIcon.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VTALocationIcon.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8E45B388-15CB-4D34-9163-4CDAC96DB942</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SimonFairbairn/VTALocationIcon.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8E45B388-15CB-4D34-9163-4CDAC96DB942</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8E45B388-15CB-4D34-9163-4CDAC96DB942</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VTALocationIcon</string>
+		</dict>
+	</array>
+</dict>
+</plist>
