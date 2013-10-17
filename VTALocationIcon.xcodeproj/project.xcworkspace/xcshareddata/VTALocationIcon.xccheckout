@@ -5,19 +5,19 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>E64C1D29-B374-441D-9EC5-BFC0626EF5B5</string>
+	<string>1FEC8065-832D-4A0E-A691-835DA39AA379</string>
 	<key>IDESourceControlProjectName</key>
 	<string>VTALocationIcon</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>8E45B388-15CB-4D34-9163-4CDAC96DB942</key>
+		<key>F058EB25-C6CC-484E-A81D-9E3B01F024CA</key>
 		<string>https://github.com/SimonFairbairn/VTALocationIcon.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>VTALocationIcon.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>8E45B388-15CB-4D34-9163-4CDAC96DB942</key>
+		<key>F058EB25-C6CC-484E-A81D-9E3B01F024CA</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>8E45B388-15CB-4D34-9163-4CDAC96DB942</string>
+	<string>F058EB25-C6CC-484E-A81D-9E3B01F024CA</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>8E45B388-15CB-4D34-9163-4CDAC96DB942</string>
+			<string>F058EB25-C6CC-484E-A81D-9E3B01F024CA</string>
 			<key>IDESourceControlWCCName</key>
 			<string>VTALocationIcon</string>
 		</dict>
